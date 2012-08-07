@@ -16,4 +16,4 @@ formulas has a strong focus on web development in the PHP ecosystem, but encoura
 formulas is no collection of code snippets nor a collection of libraries.  Think of it as various construction instructions with an attached market overview of existing solutions. There is no (well, almost) code here, especially no full fledged drop-in components. This is mere documentation.
 
 ## Status
-There are no formulas here. Your participation is welcome. See [TODO.md](./formulas/TODO.md) for possible formulas.
+There are no formulas here. Your participation is welcome. See [TODO.md](http://github.com/drx777/formulas/blob/master/TODO.md) for possible formulas.
